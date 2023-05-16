@@ -1,0 +1,16 @@
+{
+    "ip": "192.168.1.74",
+    "puerto": "6789",
+    "impresora": "SAT SAT38TUSE",
+    "cda": "CDA JUANO SAS",
+    "nit": "Nit. 99771144-4",
+    "calidad": "C\u00f3digo : PGT - F - 01    \nFecha : 2021 - 03 - 22    \nVersi\u00f3n : 07    ",
+    "anuncio": {
+        "uno": "*** No pierda este Coso ***",
+        "dos": "Direccion: Diag 16b 108 25",
+        "tres": "Telefono: 316 222 340",
+        "cuatro": "Gracias por Preferirnos"
+    },
+    "footer": "www.paginaweb.com",
+    "proveedor": "Belissa Systems CO"
+}
