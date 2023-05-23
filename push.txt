@@ -1,0 +1,5 @@
+git init
+git add -A
+git commit -m '23052023 build'
+git remote add origin https://github.com/juandavyc/callcenterprinter.git
+git push origin main
